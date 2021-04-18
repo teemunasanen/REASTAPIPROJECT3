@@ -1,0 +1,16 @@
+{
+  "name": "restapiproject3",
+  "version": "1.0.0",
+  "description": "Web developing with MERN-stack 2021\r - 5+ routes, JSON , handle errors.\r - API DB queries with [Mongoose](https://mongoosejs.com/).\r - Test with [POSTMAN](https://www.postman.com/) or [CURL](https://curl.se/)\r - Publish in [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/) or similar.\r - Source code in <a href=\"https://github.com/teemunasanen?tab=repositories\"><img alt=\"Github\" title=\"GitHub\" height=\"32\" width=\"32\" src=\"github-11-24.png\"></a>\r - Comment your code❗\r - Provide README in the repository with URL:s and other info 😃\r ----\r Teemu Näsänen\r [Laurea University of Applied Sciences](https://www.laurea.fi/en/)\r ----\r ## Project environment in",
+  "main": "P3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
