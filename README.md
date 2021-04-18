@@ -11,4 +11,4 @@ Web developing with MERN-stack 2021
 Teemu Näsänen
 [Laurea University of Applied Sciences](https://www.laurea.fi/en/)
 ----
-## Project environment in [Heroku](https://restaapi3.herokuapp.com/)
+## Project environment in [Heroku](https://restaapi3.herokuapp.com/) or
