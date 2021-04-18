@@ -2,11 +2,15 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
+const cors = require('cors')
+
+
 //Portti
 let PORT = process.env.PORT || 8080;
 //asetetaan ejs templatet 
 app.set("view engine", "ejs");
 //staattinen sisältö public kansiosta
+app.use(cors());
 app.use(express.static("./public"));
 //express bodyparsing
 app.use(express.urlencoded({ extended: true }));

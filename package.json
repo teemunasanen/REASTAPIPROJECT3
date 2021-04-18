@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "mongoose": "^5.12.4"
@@ -21,6 +22,5 @@
   "bugs": {
     "url": "https://github.com/teemunasanen/REASTAPIPROJECT3/issues"
   },
-  "homepage": "https://github.com/teemunasanen/REASTAPIPROJECT3#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/teemunasanen/REASTAPIPROJECT3#readme"
 }
