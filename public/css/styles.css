@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(250, 249, 249);
+    padding-top: 50px;
+  }
+  .container {
+    padding: 3%;
+  }
+  .col-xl-3,
+  .col-lg-3 {
+    padding-bottom: 3%;
+  }
+  .card-columns {
+    padding-bottom: 3%;
+    padding-top: 3%;
+  }
+  input{
+    text-align: center;
+  }
+  
