@@ -7,6 +7,8 @@ const cors = require('cors')
 
 //Portti
 let PORT = process.env.PORT || 8080;
+
+app.use(cors());
 //asetetaan ejs templatet 
 app.set("view engine", "ejs");
 //staattinen sisältö public kansiosta
