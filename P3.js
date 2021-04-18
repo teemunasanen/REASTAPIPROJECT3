@@ -13,8 +13,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 //database osoite + passu
 let uri = 
-  "mongodb+srv://dbTeemu:2qXs7MYVdRA%21cNd@clustertest.xl7bj.mongodb.net/sample_analytics";
-  //process.env.DB_URI;
+  process.env.DB_URI;
+
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 //mongoose yhteys
 const db = mongoose.connection;
