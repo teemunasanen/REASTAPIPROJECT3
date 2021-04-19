@@ -1,8 +1,9 @@
 // Moduulit käyttöön
+const path = require("path");
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const cors = require('cors')
+const cors = require("cors")
 
 
 //Portti
@@ -12,7 +13,8 @@ app.use(cors());
 //asetetaan ejs templatet 
 app.set("view engine", "ejs");
 //staattinen sisältö public kansiosta
-app.use(express.static("./public"));
+var dir = path.join(__dirname, 'public');
+app.use(express.static(dir));
 //express bodyparsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
