@@ -13,3 +13,9 @@ Teemu Näsänen
 ----
 ## Project environment in [Heroku](https://restaapi3.herokuapp.com/) 
 <img alt="save" src="./public/images/tallennus.JPG">
+<img alt="save" src="./public/images/tallennus2.JPG">
+<img alt="save" src="./public/images/tallennus3.JPG">
+<img alt="edit" src="./public/images/muokkaus.JPG">
+<img alt="edit" src="./public/images/muokkaus2.JPG">
+<img alt="del" src="./public/images/poisto.JPG">
+<img alt="del" src="./public/images/poisto2.JPG">
