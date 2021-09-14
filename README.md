@@ -1,5 +1,6 @@
 # Project 3: REST API
 Web developing with MERN-stack 2021
+## Project environment in [Heroku](https://restaapi3.herokuapp.com/) 
 - 5+ routes, JSON , handle errors.
 - API DB queries with [Mongoose](https://mongoosejs.com/).
 - Test with [POSTMAN](https://www.postman.com/) or [CURL](https://curl.se/)
@@ -11,7 +12,7 @@ Web developing with MERN-stack 2021
 Teemu Näsänen
 [Laurea University of Applied Sciences](https://www.laurea.fi/en/)
 ----
-## Project environment in [Heroku](https://restaapi3.herokuapp.com/) 
+
 <img alt="save" src="./public/images/tallennus.JPG">
 <img alt="save" src="./public/images/tallennus2.JPG">
 <img alt="save" src="./public/images/tallennus 3.JPG">
