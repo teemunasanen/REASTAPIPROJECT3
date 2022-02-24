@@ -1,6 +1,6 @@
 # Project 3: REST API
 Web developing with MERN-stack 2021
-## Project environment in [Heroku](https://restaapi3.herokuapp.com/) 
+## Project environment is offline.
 - 5+ routes, JSON , handle errors.
 - API DB queries with [Mongoose](https://mongoosejs.com/).
 - Test with [POSTMAN](https://www.postman.com/) or [CURL](https://curl.se/)
